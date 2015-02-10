@@ -1,0 +1,17 @@
+pom.xml
+*jar
+lib
+classes
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+*iml
+.lein-env
+out
+target
+.nrepl-port
+.repl/
+repl/
+animals-crud/resources/public/crud.js
+
+code/animals-crud/resources/public/crud.js
